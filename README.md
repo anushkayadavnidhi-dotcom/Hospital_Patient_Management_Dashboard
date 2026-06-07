@@ -23,3 +23,9 @@ A hospital wants to monitor patient admissions, treatments, and discharge patter
 - How many patients are treated per week?
 - What is the success rate of treatments?
 - Which departments need more staffing based on patient load?
+
+
+## Dashboards
+ <a href="">Hospital_Patient_Management</a>
+ <a href="">Department_Analysis</a>
+ <a href="">Treatment_Analysis</a>
