@@ -26,6 +26,6 @@ A hospital wants to monitor patient admissions, treatments, and discharge patter
 
 
 ## Dashboards
- <a href="">Hospital_Patient_Management</a>
+ <a href="https://github.com/anushkayadavnidhi-dotcom/Hospital_Patient_Management_Dashboard/blob/main/Screenshot%202026-06-07%20192936.png">Hospital_Patient_Management</a>
  <a href="">Department_Analysis</a>
  <a href="">Treatment_Analysis</a>
