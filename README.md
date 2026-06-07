@@ -6,7 +6,7 @@ A hospital wants to monitor patient admissions, treatments, and discharge patter
 ## Dataset Used 
 <a href="https://drive.google.com/drive/recent?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto">Hospital_Patient_Management</a>
 
-## KPIs
+## Questions(KPIs)
 - What is the average length of stay by department?
 - Which doctors have the highest patient load?
 - What is the readmission rate by treatment type?
